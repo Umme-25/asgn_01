@@ -1,2 +1,5 @@
 # asgn_01
-Assignment  01  of my course.
+
+  TASK 1
+       Taken two inputs from user and converted it into integer then performed operations on it.
+      
